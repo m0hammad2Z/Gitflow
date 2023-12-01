@@ -6,5 +6,7 @@ public class Main {
         Feature featureOne = new Feature("Feature one");
         System.out.println(featureOne.getName());
 
+        System.out.println("Bug fix");
+
     }
 }
