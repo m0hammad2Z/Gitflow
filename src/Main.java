@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Bug fix");
 
+        Feature featureTwo = new Feature("Feature two");
+        System.out.println(featureTwo.getName());
     }
 }
