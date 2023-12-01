@@ -3,6 +3,8 @@ public class Main {
         Feature feature= new Feature("Feature");
         System.out.println(feature.getName());
 
+        Feature featureOne = new Feature("Feature one");
+        System.out.println(featureOne.getName());
 
     }
 }
